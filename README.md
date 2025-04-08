@@ -1,4 +1,4 @@
-# EchoMart
+# GreenMart
 A shopping app built with Python that uses Face Recognition for login and Speech Recognition for search.
 The GUI is entirely built on PyQT5. Face Recognition is built with OpenCV and the face_recognition library.
 The Speech-to-Text is handled by OpenAI Whisper which is an open source language model along with SpeechRecognition library in Python.
