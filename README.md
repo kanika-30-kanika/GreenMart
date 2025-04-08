@@ -26,3 +26,4 @@ EchoMart is now ready.
 By default the Whisper model will run on CPU using FP32 (this results in higher latency when using speech recognition)
 To use FP16 we must set up the GPU to run CUDA. If CUDA is available on the GPU refer the following:
 https://github.com/pytorch/pytorch/issues/90845
+# GreenCart
